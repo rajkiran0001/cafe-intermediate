@@ -1,0 +1,14 @@
+secrets.yml
+
+node_modules
+DS_Store
+
+*.log
+logs/*.log
+file/inside/a/folder
+folder/inside/a/file
+
+dist
+build
+
+out
